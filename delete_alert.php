@@ -30,6 +30,7 @@
           <?php
         }
     }
+
     else{
       ?>
       <script>location.assign("index.php");</script>
