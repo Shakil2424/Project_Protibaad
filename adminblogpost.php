@@ -26,7 +26,7 @@ if (!isset($_SESSION['username'])) {
     <link rel="stylesheet" href="css/welcome.css">
 
 </head>
-
+// h
 <body>
 
     <!-- header section starts  -->
